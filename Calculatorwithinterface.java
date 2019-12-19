@@ -1,12 +1,7 @@
 import java.util.Scanner;
-import java.applet.Applet;
 
 public class Calculatorwithinterface extends Applet {
 
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = -4082035883261105462L;
 
 	public static void main(String[] args) {
 
