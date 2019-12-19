@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculatorwithinterface extends Applet {
+public class Calculatorwithinterface {
 
 
 	public static void main(String[] args) {
