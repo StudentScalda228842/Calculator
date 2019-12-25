@@ -1,3 +1,7 @@
+// A calculator without * or / operators.
+// The user can input an Integer and an operator to get the result
+
+
 import java.util.Scanner;
 
 public class Calculatorwithinterface {
